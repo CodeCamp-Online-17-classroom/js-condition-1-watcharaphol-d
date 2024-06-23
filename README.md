@@ -12,3 +12,7 @@ console.log(NaN !== 2);
 console.log(NaN == NaN);
 console.log(NaN === NaN);
 ```
+
+### Homework Finished 23/06/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
